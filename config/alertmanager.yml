@@ -1,5 +1,5 @@
 global:
-  resolve_timeout: 6h
+  resolve_timeout: 10m
 
 route:
   group_by: ['alertname']
